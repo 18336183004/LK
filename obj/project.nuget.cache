@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mh9QCmdUy7NDmZifqFhUmxFAAuXcNxkMLprpArL77VGs0qpsAkS+5WEmid+nxhQnUiGoNOqW3bmiMWFXGdMCCQ==",
+  "dgSpecHash": "5/otzGAXg5nM1w8eC6Rz+17BoXL/qI4CcR2/j5MVrPtC/MytqEvgS+dTi4bTJC++sDsxGBnqGTlj75wlpVTfPQ==",
   "success": true,
-  "projectFilePath": "E:\\VS项目\\HospitalSystem\\HospitalSystem.csproj",
+  "projectFilePath": "E:\\lK\\HospitalSystem\\HospitalSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\留归-李坤\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\留归-李坤\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

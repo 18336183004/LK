@@ -6685,11 +6685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS项目\\HospitalSystem\\HospitalSystem.csproj",
+      "projectUniqueName": "E:\\lK\\HospitalSystem\\HospitalSystem.csproj",
       "projectName": "HospitalSystem",
-      "projectPath": "E:\\VS项目\\HospitalSystem\\HospitalSystem.csproj",
+      "projectPath": "E:\\lK\\HospitalSystem\\HospitalSystem.csproj",
       "packagesPath": "C:\\Users\\留归-李坤\\.nuget\\packages\\",
-      "outputPath": "E:\\VS项目\\HospitalSystem\\obj\\",
+      "outputPath": "E:\\lK\\HospitalSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VS\\NuGetPackages",
@@ -6752,7 +6752,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
       }
     }
   }
